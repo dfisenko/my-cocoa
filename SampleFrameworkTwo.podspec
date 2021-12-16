@@ -32,7 +32,7 @@ s.framework = "UIKit"
 s.source_files = "SampleFrameworkTwo/**/*.{swift}"
 
 # 9
-s.resources = "SampleFrameworkTwo/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+#s.resources = "SampleFrameworkTwo/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
 # 10
 #s.swift_version = "4.2"
